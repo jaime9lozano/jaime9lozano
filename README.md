@@ -70,5 +70,8 @@ Espero que te guste lo que encuentres 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaime_Lozano_Carbonell-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jaime-lozano-carbonell-246702188/)
 
+[![Porfolio Personal](https://img.shields.io/badge/Gmail-jaime9lozano%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=GMAIL&labelColor=101010
+)]([mailto:jaime9lozano@gmail.com](https://cheerful-smakager-b6608f.netlify.app/))
+
 </div>
 </div>

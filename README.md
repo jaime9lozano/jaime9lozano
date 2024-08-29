@@ -37,6 +37,9 @@ Espero que te guste lo que encuentres 😊
 <br>
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000)](https://github.com/jaime9lozano?tab=repositories&q=&type=&language=typescript&sort=)
 [![Nest](https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/MacJavaServer-Nest)
+<br>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000)](https://github.com/jaime9lozano/FunkoLandiaDjango)
+
 
 </td>
 <td>

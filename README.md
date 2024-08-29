@@ -39,7 +39,7 @@ Espero que te guste lo que encuentres 😊
 [![Nest](https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=000)](https://github.com/DiegoTorresMijarra/MacJavaServer-Nest)
 <br>
 [![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=000)](https://github.com/jaime9lozano/FunkoLandiaDjango)
-
+[![Django](https://img.shields.io/badge/Django-00441B?style=for-the-badge&logo=django&logoColor=white&labelColor=000)](https://github.com/jaime9lozano/FunkoLandiaDjango)
 
 </td>
 <td>

@@ -46,6 +46,9 @@ Espero que te guste lo que encuentres 😊
 
 [![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000)](#)
 [![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000)](#) <br> [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000)](https://github.com/jaime9lozano/TFG-JaimeLozano-DiegoTorres) <br> [![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=000)](https://github.com/jaime9lozano/TFG-JaimeLozano-DiegoTorres)
+<br>
+[![Astro](https://img.shields.io/badge/Astro-FF0000?style=for-the-badge&logo=astro&logoColor=white&labelColor=000)](https://github.com/jaime9lozano/Porfolio)
+
 
 
 </td>

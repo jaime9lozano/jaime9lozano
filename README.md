@@ -5,9 +5,9 @@
 ## 👋 Holaaa, mi nombre es Jaime Lozano Carbonell
 
 <hr>
-Soy exalumno del grado de Desarrollo de Aplicaciones Web en el IES Luis Vives.
+Soy graduado del grado de Desarrollo de Aplicaciones Web y actualmente estoy cursando el grado de Desarrollo de Aplicaciones Multiplataforma.
 
-Estoy dando mis primeros pasos en el mundo de la programación y tengo muchas ganas de aprender. A si que no tengas
+Aprendí a hacer paginas web y ahora estoy aprendiendo a migrar esas paginas a dispositivos móviles para tener una visión mas global de la programacion, iré subiendo aquí todos mis proyectos asique no tengas
 ningun problema en comentarme si hay algun error o problema 😉
 
 Espero que te guste lo que encuentres 😊
